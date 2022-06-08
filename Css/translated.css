@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  background-color: white;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.logo {
+  width: 200px;
+  padding: 10px 0; 
+}
+
+.iconos-redes-header {
+       width: 30px;
+       margin: 5px; 
+}
+
+.section1 {
+      padding: 20px;
+      width: 100%; 
+}
+
+footer {
+  background-color: black;
+  padding: 30px 0;
+  text-align: center; 
+}
+footer.logotipo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+footer {
+    color: aliceblue;
+    margin: 5px;
+    font-size: 20px;
+}
+
+/*fotos*/
+.foto {
+  background-color: #fbfbfb;
+  padding: 20px 0; 
+}
+
+img {
+  max-width: 100%; 
+}
+
+.foto img {
+  background-color: black;
+  padding: 15px;
+  width: 100%;
+  box-shadow: 0 0 0 15px rgb(0, 0, 0, 0, 3);
+  cursor: pointer; 
+}
+
+#foto-modal .modal-img {
+  width: 100%; 
+}
